@@ -1,5 +1,3 @@
-#每日数据建模
-
 # upload the following libraries 
 library(TSA)
 library(fUnitRoots)
